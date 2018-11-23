@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Magic_square
 
 Running the program:
 
+-------------------------------------------------------------
 imtiazud@Yanet:Magic Square ~> gcc -Wall magic.c -o magic\
 imtiazud@Yanet:Magic Square ~> ./magic
 
@@ -20,3 +21,4 @@ Enter the size of magic square: 5
     4    6   13   20   22\
    10   12   19   21    3\
    11   18   25    2    9
+--------------------------------------------------------------
